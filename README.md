@@ -29,22 +29,35 @@ team's performances.
 Here are some screenshots of the final product: (the whole work was originally done in French)
 
 Login Page
+
 ![Login Page](https://i.ibb.co/mGBkjb9/LOGIN.png)
 
+
 Phases page
+
 ![Phases page](https://i.ibb.co/dfvpSM7/phases-exigences-et-taches.jpg)
 
+
 Workspace creation
+
 ![Workspace creation](https://i.ibb.co/NphJzh5/createWS.png)
 
+
 Dashboard
+
 ![Dashboard](https://i.ibb.co/qsfD3f9/DASHBOARD-RSSI.png)
 
+
 Task management
+
 ![Task management](https://i.ibb.co/KhcdJ1F/checklist.png)
 
+
 Affecting tasks
+
 ![Affecting tasks](https://i.ibb.co/3dBCrHy/SOUSTACHES.png)
 
+
 Analytics
+
 ![Analytics](https://i.ibb.co/Y8C49Vv/reportingfinal.png)

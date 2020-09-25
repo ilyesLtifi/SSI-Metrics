@@ -1,6 +1,8 @@
 # SSI-Metrics for ISO 27001 Implementation
 
-A web platform made with the MEANJS stack: Angular + NodeJS + Express + MongoDB
+A web platform made with the MEANJS stack
+
+![MEAN JS](https://i.ibb.co/WVNQSg4/meanjs.png)
 
 ### [My LinkedIn](https://linkedin.com/in/mohamed-ilyes-ltifi)
 
@@ -18,7 +20,7 @@ The clients are divided into 2 groups:
   * Collaborator; the regular employees of the company that are chosen to participate in the journey for acquiring the certification
   * Information Security Agent; responsable of creating the account for the company, managing the tasks, and overviewing the collaborators
 
-The Agent starts by creating the account then inviting the rest of the team.
+The Agent starts by creating the account, creating a workspace for the company then inviting the rest of the team.
 From there they begin following the path and finishing the tasks till the end.
 
 There are several analytics/reportings tools for the company's executives to overview the whole operation and see some statistics about the
@@ -26,18 +28,16 @@ team's performances.
 
 Here are some screenshots of the final product: (the whole work was originally done in French)
 
-![alt](https://ibb.co/CPpqxh3)
+![Login Screen](https://i.ibb.co/mGBkjb9/LOGIN.png)
 
-![alt](https://ibb.co/G0Jy6nW)
+![Phases page](https://i.ibb.co/dfvpSM7/phases-exigences-et-taches.jpg)
 
-![alt](https://ibb.co/VLGCd93)
+![Dashboard](https://i.ibb.co/qsfD3f9/DASHBOARD-RSSI.png)
 
-![alt](https://ibb.co/2P902pX)
+![Workspace creation](https://i.ibb.co/NphJzh5/createWS.png)
 
-![alt](https://ibb.co/xLKWN4J)
+![Task management](https://i.ibb.co/KhcdJ1F/checklist.png)
 
-![alt](https://ibb.co/ct5Zd50)
+![Affecting tasks](https://i.ibb.co/3dBCrHy/SOUSTACHES.png)
 
-![alt](https://ibb.co/3NqT9qW)
-
-![alt](https://ibb.co/1Q8mvxf)
+![Analytics](https://i.ibb.co/Y8C49Vv/reportingfinal.png)
